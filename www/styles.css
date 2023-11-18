@@ -1,0 +1,35 @@
+body {
+  background-color: #f3f3f3;
+  font-family: 'Arial', sans-serif;
+}
+
+.titlePanel {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.sidebarPanel {
+  background-color: #f9f9f9;
+  padding: 15px;
+}
+
+.mainPanel {
+  background-color: #ffffff;
+  padding: 15px;
+}
+
+.tabsetPanel .nav-tabs {
+  margin-bottom: 15px;
+}
+
+.tabsetPanel .tab-content {
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.dataTables_wrapper .dataTables_filter {
+  float: right;
+}
